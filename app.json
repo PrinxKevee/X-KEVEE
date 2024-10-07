@@ -1,15 +1,15 @@
 {
-  "name": "X-BYTE",
+  "name": "X-KEVEE",
   "description": "X-BYTE buttoned version of Byte..",
   "logo": "https://raw.githubusercontent.com/HyHamza/HyHamza/main/Images/XByte-logo.png",
   "keywords": ["xbyte", "bot", "whatsapp bot", "multi device", "X-BYTE"],
-  "success_url": "/",
+  "success_url": "https://files.catbox.moe/0dxnw6.jpg",
 
   "env": {
     "SESSION_ID": {
             "description": "Paste session ID, else deploy using creds.json",
             "required": true,
-            "value": ""
+            "value": "Byte;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQUJzK01VZitZZDc4WFhIeG1pcENUYUNjQWVtMm9rRWZEeVZLNTV6SFNIUT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVkZPR3BSZjh3MWx0Nm8yd0E2bkdDUFVSeVd0cWZYaXpqM0NPOXJYL1Focz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI2QnhXZDRMMi94eVJSV3NWQjA4Tjl5NHlFRkFzazNVM2JlWUsxUTJ3a0ZBPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJsRkdDNEZiWUVqYzZaMVNaTlhMWnl3OU9jbWoyT2ZreW1JVWtubE56TWhrPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Im1OdHdOV1g4b1haRC9McExscXRKQ0VsWEpOVWg5bzY1VTk2cGFYdkZNVlk9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkUyYnFmdW9lWFh0d2RZZTVPaTNSOEFScVlWY0tETVFFSFh3cEpZMXlXU2c9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQUxQbUw3b3MzcjdyYkVMSjhwcWNxVGFxYkFkTVozd3pUbjRqZ28rbVdXQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTkNnWHNCY0N6Rmh2bnFsMnA1dFg5Z2VLYUV3Y0ZXUVplN2FlYXFUNjZEMD0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlJFUTFheUlQTWxPdUZyQzJWT1VRWS9oNVJYVGRmdzgzL25jVm5oSlQ4aGhBaitPY0tBNm1MYUVtT1JqUk5MQ3ZmSkJSUGxuM3g4ZkU0NlNmb1kyWGhnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTgsImFkdlNlY3JldEtleSI6IjdZUytTM0lHeXd2Q2I1VkdzZnVSd2VrOVllZnFPeVpnZ2JnSS8za0dKc3c9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6InQ1S0ZTYkxXVF9XMHY4c0E5YjRxWVEiLCJwaG9uZUlkIjoiZDI1OWFlOTAtMmJmYS00ZmMyLTg2Y2QtOTkyMGE0NzBmYTc4IiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlZMTnQvL096SFZJdlFhekpWTGVpK1l3Y1A3UT0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJMVWx3eXJUVk00TW5VZkhPdmtqRHp5clJRQTA9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiVFA2TVFXM04iLCJtZSI6eyJpZCI6IjUyMTk2MjUxNTg0NzE6N0BzLndoYXRzYXBwLm5ldCIsIm5hbWUiOiIoxYLwnZCM8J2QmvCdkJ/wnZCi8J2QmiDOlCDwnZWv8J2VrfCdlbspIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNQenhvb01ERUp2eGpMZ0dHQU1nQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiIyN0IxNndoMXI0bE1pcTZZN1Bha3ZWcEVSeHNHcUdRRHU4SkQ3d25rTm5VPSIsImFjY291bnRTaWduYXR1cmUiOiI2Y0ZCaTM1YVMyZEVCeURjWDhOQlB6SE1PWUc1VzQxbFltTDhBTXd6RUJUVVRUKzdlQVBFTmpObHMzNUhyNm1YOStGaXpBN05EUy94ekNCSXdPdTFBQT09IiwiZGV2aWNlU2lnbmF0dXJlIjoiVm1uRWlCS2lkOHVTdXdxR2hrUGEzV3pBNmxXT0NWRkxjcmdGNUQ1a20rWmZlTG5LbHYySXA4MVN3T1ZKVFdiY2NlbmRQcGRteDVJbUhieHc5NTFSZ1E9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiI1MjE5NjI1MTU4NDcxOjdAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCZHV3ZGVzSWRhK0pUSXF1bU96MnBMMWFSRWNiQnFoa0E3dkNRKzhKNURaMSJ9fV0sInBsYXRmb3JtIjoic21iYSIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcyODI2NDM2MCwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFESEoifQ=="
         },
     "COMMAND_TYPE": {
             "description": "Put correct spelling button or nonbutton here to change mode",
@@ -19,12 +19,12 @@
     "HEROKU_APP_NAME": {
             "description": "Put Heroku app name here",
             "required": true,
-            "value": ""
+            "value": "KEVEE TECH"
         },
     "HEROKU_API_KEY": {
             "description": "Put Heroku Api key here ",
             "required": true,
-            "value": ""
+            "value": "KEVEE"
         },
     "POSTGRESQL_URL": {
             "description": "Put Any postgres url here",
